@@ -1,0 +1,155 @@
+.tourism {
+	margin-left: 70px;
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav1 {
+	display: inline-block;
+	box-sizing: border-box;
+	vertical-align: middle;
+	margin-left: 500px;
+	margin-top: 29px;
+
+
+}
+
+.ul {
+	display: inline-block;
+}
+
+.li1 {
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+
+}
+.li2{
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+}
+
+.li3 {
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+}
+.li4 {
+	display: inline-block;
+	margin-right: 30px;
+	color: #303134;
+}
+
+.mshobeli {
+	margin-top: 20px;
+	position: relative;
+	width: 1349px;
+	display: inline-block;
+
+
+	
+	
+
+}
+.mydiv {
+	position: absolute;
+	
+	display: inline-block;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 60px;
+	color: #ffffff;
+
+}
+
+.div2 {
+	position: absolute;
+	
+	display: inline-block;
+	top: 65%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 15px;
+	color: #ffffff;
+
+}
+
+/*end of section 1*/
+
+
+.section2 {
+	margin-top: 60px;
+}
+
+
+.container {
+
+	width: 1170px;
+	margin: 0 auto;
+	height: 600px;
+}
+
+.div3{
+	font-size:11px;
+	color: #8d8d8d;
+
+}
+
+.shua {
+ color: #1a1a1b;
+ margin-top: 5px;
+}
+
+.p1 {
+	width: 200px;
+	margin-top: 15px;
+	color: #8d8d8d;
+}
+
+
+
+.mshobelidiv {
+
+	display: flex;
+	flex-direction: row;
+}
+
+.shvilip1 {
+
+	width: 200px;
+    color: #8d8d8d;
+    margin-top: 8px;
+}
+
+
+
+.shvilidiv2 {
+	display: flex;
+	margin-bottom: 10px;
+	width: 280px;
+	height: 200px;
+}
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.cardsone {
+	margin-right: 20px;
+	margin-left: 30px;
+}
+
+.flex {
+	display: flex;
+}
+
+.card3 {
+
+	margin-left: 20px;
+
+}
+
+cardsfull
